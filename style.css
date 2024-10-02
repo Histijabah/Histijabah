@@ -1,0 +1,105 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    flex: 0.5;
+    gap: 20px;
+    background-color: #c9c9ea
+}
+
+/* styling for header */
+header {
+    background-color: #101041;
+    color: #c9c9ea;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+}
+header p {
+    font-size: 20px;
+    font-weight: bold;
+    
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        font-size: 15px;
+    }
+}
+nav {
+    display: flex;
+    gap: 50px;
+    
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+         flex-direction: column;
+         gap: 10px;
+    }
+}
+nav a {
+    color: #c9c9ea;
+    text-decoration: none;
+}
+
+/* styling for main */
+main {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    flex: 2.5;
+
+    
+    /* for screen size below 950px */
+    @media (max-width: 950px) {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+main img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        width: 300px;
+    }
+}
+
+.description {
+    width: 400px;
+
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        width: 300px;
+    }
+}
+
+button {
+    background-color: rgb(22, 22, 71);
+    color: #c9c9ea;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+    margin: 10px 0 0;
+}
+
+button a {
+    text-decoration: none;
+    color: #c9c9ea;
+}
+
+/* styling for footer */
+footer {
+    background-color: #101041;
+    color: #c9c9ea;
+    padding: 10px 20px;
+    text-align: center;
+}

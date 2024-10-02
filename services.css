@@ -1,0 +1,132 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #c9c9ea;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    flex: 1;
+}
+
+/* styling for header */
+header {
+    background-color: #101041;
+    color: #c9c9ea;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+
+}
+header p {
+    font-size: 20px;
+    font-weight: bold;
+    
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        font-size: 15px;
+    }
+}
+nav {
+    display: flex;
+    gap: 50px;
+    
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+         flex-direction: column;
+         gap: 10px;
+    }
+}
+nav a {
+    color: #c9c9ea;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 2;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 10px;
+    padding: 20px;
+
+    /* for screen size below 950px */
+    @media (max-width: 950px) {
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 300px;
+    }
+}
+
+.servicecard {
+    background-color: #101041;
+    border-radius: 5px;
+    color: #c9c9ea;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 20px;
+}
+
+.servicecard img {
+    width: 400px;
+    height: 300px;
+    border-radius: 10px;
+    
+    /* for screen size below 490px */
+    @media (max-width: 490px) {
+        width: 250px;
+        height: 250px;
+    }
+}
+
+
+    /* for screen size below 490px */
+@media (max-width: 490px) {
+    
+    #app {
+        width: 150px;
+}
+}
+
+button {
+    background-color: rgb(22, 22, 71);
+    color: #c9c9ea;
+    border-radius: 10px;
+    padding: 10px;
+    border: none;
+}
+
+a {
+    text-decoration: none;
+    color: #c9c9ea;
+}
+
+/* styling for footer */
+footer {
+    background-color: #101041;
+    color: #c9c9ea;
+    padding: 10px 20px;
+    text-align: center;
+}
