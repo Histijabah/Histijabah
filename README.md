@@ -11,8 +11,8 @@ I enjoy turning ideas into functional websites and applications while continuous
 * Bootstrap
 * JavaScript
 * Git & GitHub
-* React — Learning
-* Backend Development — Upcoming
+* React (Learning)
+* Backend Development (Upcoming)
 
 ### What I'm Working On
 
