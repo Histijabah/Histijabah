@@ -1,87 +1,38 @@
-# Hi there, I'm Alabi Shukroh 👋
+# Hi, I'm Shukroh 👋
 
-## Tech-Savvy Virtual Assistant | Administrative Support | Frontend Web Developer
+I'm a **Computer Science student and Web Developer** interested in building useful, responsive and user-friendly web applications.
 
-Welcome to my GitHub profile!
+I enjoy turning ideas into functional websites and applications while continuously improving my development skills. My current focus is frontend development, with the goal of becoming a **Full-Stack Developer**.
 
-I'm a detail-oriented Virtual Assistant and Frontend Web Developer passionate about helping entrepreneurs, startups, and businesses stay organized, productive, and digitally efficient.
+### Technologies & Tools
 
-I provide reliable administrative support, streamline workflows, manage business operations, and build modern, responsive websites.
+* HTML5
+* CSS3
+* Bootstrap
+* JavaScript
+* Git & GitHub
+* React — Learning
+* Backend Development — Upcoming
 
-I'm continuously learning new technologies and improving my skills to deliver excellent results.
+### What I'm Working On
 
+I'm currently strengthening my JavaScript and frontend development skills while learning React and preparing to move into backend development.
 
+My goal is to build complete web applications from the user interface to the server and database.
 
-##  What I Do
+### Projects
 
--  Email Management
--  Calendar Management & Appointment Scheduling
--  Document Preparation & Formatting
--  Microsoft 365 (Word, Excel & PowerPoint)
--  Google Workspace
--  Internet Research
--  File & Document Organization
--  Customer Support
--  Canva Design
--  Frontend Web Development
+I use this GitHub to document my projects, experiments, and progress as I grow as a developer.
 
+### Current Focus
 
+* Improving JavaScript
+* Learning React
+* Building responsive web applications
+* Strengthening my development fundamentals
+* Progressing toward Full-Stack Development
 
-##  Skills & Tools
+### Connect With Me
 
-### Administrative Tools
-- Microsoft Word
-- Microsoft Excel
-- Microsoft PowerPoint
-- Google Docs
-- Google Sheets
-- Google Drive
-- Gmail
-- Google Calendar
-- Canva
-
-### Technical Skills
-- HTML5
-- CSS3
-- Bootstrap 5
-- JavaScript (Learning)
-- Git
-- GitHub
-- Responsive Web Design
-
----
-
-##  Currently Learning
-
-- Advanced Virtual Assistant Practices
-- JavaScript
-- React
-- Python
-- Project Management
-- CRM Tools
-- AI Productivity Tools
-
----
-
-## Career Goal
-
-My goal is to help businesses and entrepreneurs stay organized, productive, and efficient through dependable virtual assistance while continuously growing my expertise in frontend web development and modern productivity tools.
-
----
-
-## Featured Projects
-
--  School Management System
--  City Ride Website
--  Personal Portfolio Website
--  Digital Birthday Wish
-
----
-
-##  Let's Connect
-
--  Email: *alabishukroh001@gmail.com*
--  LinkedIn: *Coming Soon*
--  Portfolio Website: *Coming Soon*
-
-Thanks for visiting my GitHub profile! Feel free to explore my repositories and follow my journey as I continue learning, building, and helping businesses succeed.
+* GitHub: [@Histijabah](https://github.com/Histijabah)
+* Portfolio: Coming soon
